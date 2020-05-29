@@ -1,6 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Conversion Pattern" />
+      <item value="Flushes batch statements and commits database connection. * Note that database connection will not be committed if no updates/deletes/inserts were called." />
+      <item value="Flushes batch statements and commits database connection." />
+      <item value="Mapper interface class" />
+      <item value="Retrieves a mapper." />
+      <item value="Exception In Initializer Error" />
+      <item value="Malformed Byte Sequence Exception" />
+      <item value="Process terminated" />
+      <item value="Persistence Exception" />
+      <item value="* Unless required by applicable law or agreed to in writing, software * distributed under the License is distributed on an &quot;AS IS&quot; BASIS, * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. * See the License for the specific language governing permissions and * limitations under the License." />
+      <item value="Clinton Begin" />
+      <item value="A repository of &quot;shared secrets&quot;, which are a mechanism for calling implementation-private methods in another package without using reflection. A package-private class implements a public interface and provides the ability to call package-private methods within that package; the object implementing that interface is provided through a third package to which access is restricted. This framework avoids the primary disadvantage of using reflection for this purpose, namely the loss of compile-time checking." />
+      <item value="* The random number generator used by this class to create random * based UUIDs. In a holder class to defer initialization until needed." />
+      <item value="Explicit serialVersionUID for interoperability." />
+      <item value="timestamp" />
       <item value="Class [Triangle1] must declare a single constructor" />
       <item value="Precondition Violation Exception" />
       <item value="&lt;dependency&gt;--&gt; &lt;!-- &lt;groupId&gt;org.example&lt;/groupId&gt;--&gt; &lt;!-- &lt;artifactId&gt;untitled2&lt;/artifactId&gt;--&gt; &lt;!-- &lt;version&gt;1.0-SNAPSHOT&lt;/version&gt;--&gt; &lt;!-- &lt;exclusions&gt;--&gt; &lt;!-- &lt;exclusion&gt;--&gt; &lt;!-- &lt;groupId&gt;log4j&lt;/groupId&gt;--&gt; &lt;!-- &lt;artifactId&gt;log4j&lt;/artifactId&gt;--&gt; &lt;!-- &lt;/exclusion&gt;--&gt; &lt;!-- &lt;/exclusions&gt;--&gt; &lt;!-- &lt;/dependency&gt;--&gt;" />
@@ -36,26 +51,11 @@
       <item value="consistency" />
       <item value="atomicity" />
       <item value="Batch" />
-      <item value="* Accepts a function that extracts a {@link java.lang.Comparable * Comparable} sort key from a type {@code T}, and returns a {@code * Comparator&lt;T&gt;} that compares by that sort key. * * &lt;p&gt;The returned comparator is serializable if the specified function * is also serializable. *" />
-      <item value="j计算" />
-      <item value="calucate" />
-      <item value="transactions" />
-      <item value="encrypt" />
-      <item value="加密" />
-      <item value="Filed" />
-      <item value="Instantiation Exception" />
-      <item value="Illegal Access Exception" />
-      <item value="* @deprecated This method propagates any exception thrown by the * nullary constructor, including a checked exception. Use of * this method effectively bypasses the compile-time exception * checking that would otherwise be performed by the compiler. * The {@link * java.lang.reflect.Constructor#newInstance(java.lang.Object...) * Constructor.newInstance} method avoids this problem by wrapping * any exception thrown by the constructor in a (checked) {@link * java.lang.reflect.InvocationTargetException}." />
-      <item value="strictfp" />
-      <item value="ANY-ACCESS-MODIFIER static final long serialVersionUID = 42L;" />
-      <item value="Fields" />
-      <item value="write Fields" />
-      <item value="balance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="78" />
-        <entry key="ENGLISH" value="79" />
+        <entry key="CHINESE" value="94" />
+        <entry key="ENGLISH" value="95" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
         <entry key="ESTONIAN" value="1" />
